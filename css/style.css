@@ -6,6 +6,13 @@
     --dark: #161616;
 }
 
+.galeria img{
+    width: 300px;
+    margin: auto;
+    height: 150px;
+    border: white solid 10px;
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }

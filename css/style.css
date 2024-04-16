@@ -13,6 +13,12 @@
     border: white solid 10px;
 }
 
+.service-item .rounded-circle{
+
+    margin: auto;
+
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }
